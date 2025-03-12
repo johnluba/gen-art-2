@@ -30,7 +30,11 @@ It features animated circles, rectangles, lines, and patterns that create a dyna
 ## Files
 
 - `index.html`: Loads the p5.js library and links the script
-- `sketch.js`: Contains the animation code
+- `script.js`: Contains the animation code
+- `style.css`: Contains the styles for the page
+- `README.md`: Information about the project
+- `.gitignore`: What's to be ignored for git
+- `assets/artwork.png`: Original file used for inspiration
 - No external assets required
 
 ## How to Run Locally
